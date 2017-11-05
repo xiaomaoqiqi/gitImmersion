@@ -1,0 +1,23 @@
+[33mcommit c6fe332ca22064de523f1ea15afbe7a9ab394ac1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Xiaoqi(Sandy) Zhou <xiaomaoqiqi@gmail.com>
+Date:   Thu Nov 2 21:34:16 2017 +0000
+
+    Added a comment
+
+[33mcommit 76991a644386d226162391ecce2da908bc9f263f[m
+Author: Xiaoqi(Sandy) Zhou <xiaomaoqiqi@gmail.com>
+Date:   Thu Nov 2 21:31:51 2017 +0000
+
+    Added a default value
+
+[33mcommit 2dc90b531781447bd65ffa5fc445e8c03541c3c1[m
+Author: Xiaoqi(Sandy) Zhou <xiaomaoqiqi@gmail.com>
+Date:   Thu Nov 2 21:22:05 2017 +0000
+
+    using ARGV
+
+[33mcommit 23726bb209c5ca5fb78c0ba99edbb426bcb59fcd[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Xiaoqi(Sandy) Zhou <xiaomaoqiqi@gmail.com>
+Date:   Thu Nov 2 20:56:09 2017 +0000
+
+    first commit
