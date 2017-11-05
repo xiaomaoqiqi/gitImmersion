@@ -1,0 +1,6 @@
+* d2e5d41 2017-11-05 | add new lines in hello.rb file (HEAD -> master, tag: V1, origin/master) [Xiaoqi(Sandy) Zhou]
+* 5ffef85 2017-11-05 | added a new file (tag: master, tag: V1-beta, c6fe332, 76991a6, 23726bb) [Xiaoqi(Sandy) Zhou]
+* c6fe332 2017-11-02 | Added a comment [Xiaoqi(Sandy) Zhou]
+* 76991a6 2017-11-02 | Added a default value [Xiaoqi(Sandy) Zhou]
+* 2dc90b5 2017-11-02 | using ARGV [Xiaoqi(Sandy) Zhou]
+* 23726bb 2017-11-02 | first commit [Xiaoqi(Sandy) Zhou]
